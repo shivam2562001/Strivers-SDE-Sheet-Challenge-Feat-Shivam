@@ -1,4 +1,4 @@
-#include <bits/stdc++.h> 
+#include "Pythagorean.h"
 /*
 
     intervals[i][0] = start point of i'th interval
